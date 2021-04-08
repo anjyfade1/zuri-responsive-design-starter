@@ -380,6 +380,7 @@ div.footer h6 {
         display: none;
         width: 100%;
         flex-direction: column;
+        padding-top: 20px;
     }
 
     ul.nav-links.active{
